@@ -1,0 +1,1 @@
+Added dummy contacts in the emulator facing an issue with android version with my physical device
